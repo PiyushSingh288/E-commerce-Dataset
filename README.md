@@ -1,6 +1,6 @@
-# Brazilian E-Commerce Analytics Pipeline
+#E-Commerce Analytics Pipeline
 
-An end-to-end data engineering project for the Olist Brazilian E-Commerce dataset. The pipeline uses Databricks, PySpark, Delta Lake, and a Bronze → Silver → Gold medallion architecture to turn nine raw CSV files into analytics tables and Tableau-ready CSV exports.
+An end-to-end data engineering project for the Olist E-Commerce dataset. The pipeline uses Databricks, PySpark, Delta Lake, and a Bronze → Silver → Gold medallion architecture to turn nine raw CSV files into analytics tables and Tableau-ready CSV exports.
 
 ## Project status
 
